@@ -18,6 +18,7 @@ git init
 ## GIT REMOVE ADD ORIGIN
 
 Para que serve? 
+
 Esse comando permite criar, ver e excluir conexões com outros repositórios
 
 Exemplo:
