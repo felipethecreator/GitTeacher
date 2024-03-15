@@ -17,10 +17,10 @@ git init
 
 ## GIT REMOVE ADD ORIGIN
 
-# Para que serve? 
+Para que serve? 
 Esse comando permite criar, ver e excluir conexões com outros repositórios
 
-# Exemplo:
+Exemplo:
 
 ```sh
 git remote add origin https://gitlab.com/grupo/myproject.git
