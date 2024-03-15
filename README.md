@@ -1,8 +1,19 @@
 ## <img src="https://skillicons.dev/icons?i=git" /> Comandos Git 
 
-👋 Saudações, programador! Você sabe quais são os comandos git? Não? Pois então irá aprender agora!
-git clone: clona o repositório para sua máquina e vai atualizando na nuvem
-git init: cria um novo repositório git na pasta
+# Respondendo as perguntas sobre os comandos git.
+
+Primeiramente, qual é a diferença entre git clone & git init?
+
+Basicamente, o comando "git clone" clona o repositório para sua máquina.
+Já o "git init" cria um novo repositório git na pasta selecionada, assim permitindo que o usuário use comandos git.
+
+# Exemplos com os 2:
+
+```sh
+git clone [url]
+|||
+git init 
+```
 
 1) Permite criar, ver e excluir conexões com outros repositório
 
