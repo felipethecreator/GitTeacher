@@ -1,5 +1,4 @@
-<img src="https://skillicons.dev/icons?i=git" /> ## Comandos Git <img src="https://skillicons.dev/icons?i=git" />
-
+## <img src="https://skillicons.dev/icons?i=git" /> Comandos Git 
 git clone: clona o repositório para sua máquina e vai atualizando na nuvem
 git init: cria um novo repositório git na pasta
 
