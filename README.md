@@ -26,7 +26,57 @@ Esse comando permite criar, ver e excluir conexões com outros repositórios
 ```sh
 git remote add origin https://gitlab.com/grupo/myproject.git
 ```
-2)
+
+## Explicando a função de alguns comandos GIT
+
+# a. git branch: 
+
+Usado para listar, criar e gerenciar branches (ramificações) em um repositório Git.
+
+Exemplo:
+
+```sh
+git branch [nome-da-branch]
+```
+# b. git branch -d:
+
+Usado para deletar uma branch localmente no seu repositório.
+
+Exemplo:
+
+```sh
+git branch -d [nome-da-branch]
+```
+
+# c. git checkout
+
+Usado para alternar entre branches no repositório Git.
+
+Exemplo:
+
+```sh
+git checkout [nome-da-branch]
+```
+
+# d. git branch -a
+
+Esse comando lista todos os branches que estão disponíveis.
+
+Exemplo:
+
+```sh
+git branch -a
+```
+
+# e. git checkout -b
+
+Esse comando cria um novo branch com um nome específico de sua escolha.
+
+Exemplo:
+
+```sh
+git checkout -b [nome-da-branch]
+```
 
 a. Cria um ponteiro para o commit que você se encontra
 b. Deleta uma branch localmente do repositório
