@@ -15,8 +15,16 @@ git clone [url]
 git init 
 ```
 
-1) Permite criar, ver e excluir conexões com outros repositório
+## GIT REMOVE ADD ORIGIN
 
+# Para que serve? 
+Esse comando permite criar, ver e excluir conexões com outros repositórios
+
+# Exemplo:
+
+```sh
+git remote add origin https://gitlab.com/grupo/myproject.git
+```
 2)
 
 a. Cria um ponteiro para o commit que você se encontra
