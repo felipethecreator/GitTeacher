@@ -78,10 +78,14 @@ Exemplo:
 git checkout -b [nome-da-branch]
 ```
 
-a. Cria um ponteiro para o commit que você se encontra
-b. Deleta uma branch localmente do repositório
-c. Usado para alternar entre branches no repositório git
-d. lista todos os branches disponiveis
-e. cria um novo branch com o nome especifico
+## Comando "git pull" e as suas variações
 
-3) traz as mudanças do repositório git para sua máquina
+Para que serve o git pull?
+
+Basicamente, sua função é, trazer as mudanças do repositório git para a sua máquina, ao dar o git pull, irá literalmente puxar os arquivos que estão na núvem para sua máquina, assim, sendo possível fazer as devidas alterações.
+
+Exemplos:
+
+```sh
+git pull <repositório-remoto> <branch-remota>
+```
